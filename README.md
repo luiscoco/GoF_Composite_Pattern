@@ -119,6 +119,7 @@ public class MenuCategory : IMenuComponent
 }
 ```
 
+## How to setup Github actions
 
-
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-8.Composite_Pattern/assets/32194879/777b3b65-0cc3-41ce-a06d-ec0ddff6a94f)
 
